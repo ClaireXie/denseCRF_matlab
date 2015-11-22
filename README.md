@@ -12,9 +12,9 @@ and provide a link to this repository as a footnote or a citation.
 
 Usage
 =======================
-*In the first stage, run compile.m
+In the first stage, run compile.m
 
-*A demo.m file is proviced along with a binary of trained textonboost unary.
+A demo.m file is proviced along with a binary of trained textonboost unary.
 
 Learning
 =======================
