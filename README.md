@@ -18,7 +18,7 @@ A demo.m file is proviced along with a binary of trained textonboost unary.
 
 Learning
 =======================
-Currently learning is not pushlished in the repo. Please email for requesting the code.
+Currently learning is not published in the repo. Please email for requesting the code.
 
 
 ----------
