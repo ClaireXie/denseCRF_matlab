@@ -31,7 +31,6 @@ tmpImg = reshape(tmpImg, 3, size(img, 1), size(img, 2));
 tmpImg = permute(tmpImg, [1 3 2]);
 
 % Do the hard work
-% TODO: make the para concise
 tic;
 
 %note: the weight of the unary should be set outside the function
