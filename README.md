@@ -14,12 +14,8 @@ Usage
 =======================
 In the first stage, run compile.m
 
-A demo.m file is proviced along with a binary of trained textonboost unary.
+A demo.m file is provided along with a binary of trained textonboost unary.
 
 Learning
-=======================
-Currently learning is not published in the repo. Please email for requesting the code.
-
-
 ----------
 Please feel free to contact xjsjtu88@gmail.com for any questions or bug reports.
